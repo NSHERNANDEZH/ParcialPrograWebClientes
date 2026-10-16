@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import ClienteLista from './components/ClienteLista'
+import './App.css'
 
 function App() {
   const [clientes, setClientes] = useState([])
