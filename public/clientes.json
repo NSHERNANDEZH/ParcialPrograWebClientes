@@ -1,0 +1,5 @@
+[
+  { "idCliente": 1, "nombre": "Ana", "apellido": "Lopez", "correo": "ana.lopez@correo.com", "telefono": "5555-1234" },
+  { "idCliente": 2, "nombre": "Carlos", "apellido": "Perez", "correo": "carlos.perez@correo.com", "telefono": "5555-5678" },
+  { "idCliente": 3, "nombre": "Maria", "apellido": "Garcia", "correo": "maria.garcia@correo.com", "telefono": "5555-9012" }
+]
